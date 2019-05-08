@@ -4,9 +4,9 @@
 
 This is an enhanced fork of the FPS Sample.
 
-Essentially it has the (Allow2 Parental Freedom SDK)[https://github.com/Allow2/Allow2Unity] integrated to show how simple it is to do so.
+Essentially it has the [Allow2 Parental Freedom SDK](https://github.com/Allow2/Allow2Unity) integrated to show how simple it is to do so.
 
-For the basic steps required, see the (Allow2Unity Wiki Page)[https://github.com/Allow2/Allow2Unity/wiki].
+For the basic steps required, see the [Allow2Unity Wiki Page](https://github.com/Allow2/Allow2Unity/wiki).
 
 The rest of this document is verbatim off the upstream readme.
 
